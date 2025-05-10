@@ -39,3 +39,11 @@ STRESSGO integrates **behavioral psychology** with **user-friendly wellness tool
 ## 📱 Target Platform
 
 - Android
+
+## 🙋 Author
+
+**Danuka Barnett**  
+🎓 Undergraduate at SLIIT University  
+📫 [danukbarnett@gmail.com](mailto:danukbarnett@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/danuka-barnett-54019a324)
+
